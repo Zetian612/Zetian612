@@ -6,4 +6,4 @@ I've been learning to code for 2 years, I started with HTML, CSS and JavaScript,
 * 🌍  I'm based in Colombia
 * 🌱  I'm learning React JS
 * 🖥️  See my portfolio at [My Portfolio](http://zetdev6.me)
-* ✉️  You can contact me at [juasebasper@hotmail.es](mailto:zetdev6@gmail.com)
+* ✉️  You can contact me at [zetdev6@gmail.com](mailto:zetdev6@gmail.com)
